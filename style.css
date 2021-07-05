@@ -18,7 +18,7 @@ section{
     color: #F50057;
 }
 .section_half{
-    width: 40%;
+    width: 45%;
     padding-left: 5%;
     float: left;
     
@@ -38,3 +38,7 @@ section{
     background:url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream_big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;}
