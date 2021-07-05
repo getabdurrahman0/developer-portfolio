@@ -1,3 +1,40 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: #333;
+}
+section{
+    height:500px;
+    margin-bottom: 150px;
+    
+}
+.title_name{
+    color: #F50057;
+}
+.section_half{
+    width: 40%;
+    padding-left: 5%;
+    float: left;
+    
+}
+.section_half img{
+    height:500px;
+}
+.link_button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background:linear-gradient(45deg, lightsalmon, #F50057);
+    font-weight: 700;
+    border-radius: 5px;
+}
+.header{
+    background:url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
